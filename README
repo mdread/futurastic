@@ -1,0 +1,4 @@
+Futurastic
+==========
+
+Tiny little Scala wrapper around Elasticsearch api, it maps the async model used by Elasticsearch to Scala futures
